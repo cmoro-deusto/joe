@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/termie/go-shutil v0.0.0-20140729215957-bcacb06fecae
-	github.com/urfave/cli v1.22.5
+	github.com/urfave/cli v1.22.8
 )
 
 require (

@@ -15,7 +15,7 @@ import (
 
 const (
   gitignoreUrl = "https://github.com/github/gitignore/archive/master.zip"
-  version      = "1.0.1"
+  version      = "1.0.2"
   dataDir      = ".joe-data"
   joe          = `
  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
